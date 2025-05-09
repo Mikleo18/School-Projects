@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\source\\repos\\MemberRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD6C2E8-6D7E-4499-A86B-83907671F8E2}|MemberRegistration.Entities\\MemberRegistration.Entities.csproj|c:\\users\\mehme\\source\\repos\\memberregistration\\memberregistration.entities\\concrete\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD6C2E8-6D7E-4499-A86B-83907671F8E2}|MemberRegistration.Entities\\MemberRegistration.Entities.csproj|solutionrelative:memberregistration.entities\\concrete\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDC730B-FDDB-4940-ACF5-E7E2EF33B405}|MemberRegistration.ConsoleUI\\MemberRegistration.ConsoleUI.csproj|c:\\users\\mehme\\source\\repos\\memberregistration\\memberregistration.consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDC730B-FDDB-4940-ACF5-E7E2EF33B405}|MemberRegistration.ConsoleUI\\MemberRegistration.ConsoleUI.csproj|solutionrelative:memberregistration.consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\MemberRegistration\\MemberRegistration.Entities\\Concrete\\Member.cs",
+              "RelativeDocumentMoniker": "MemberRegistration.Entities\\Concrete\\Member.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\MemberRegistration\\MemberRegistration.Entities\\Concrete\\Member.cs",
+              "RelativeToolTip": "MemberRegistration.Entities\\Concrete\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:47:28.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\MemberRegistration\\MemberRegistration.ConsoleUI\\Program.cs",
+              "RelativeDocumentMoniker": "MemberRegistration.ConsoleUI\\Program.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\MemberRegistration\\MemberRegistration.ConsoleUI\\Program.cs",
+              "RelativeToolTip": "MemberRegistration.ConsoleUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:00:33.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
