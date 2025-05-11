@@ -14,7 +14,7 @@ namespace MemberRegistration.ConsoleUI
         static void Main(string[] args)
         {
             var memberService = InstanceFactory.GetInstance<IMemberService>();
-            memberService.Add(new Member { Email="seyupaltas02@gmail.com",FirstName="Selahattin",LastName="Altaş",DateOfBirth=new DateTime(2002,11,26),TcNo="57958290342"});
+            memberService.Add(new Member { Email="seyupaltas02@gmail.com",FirstName="Selahattin",LastName="Altaş",DateOfBirth=new DateTime(2002,11,26),TcNo="*****"});
             Console.WriteLine("Eklendi");
             Console.ReadLine();
         }
