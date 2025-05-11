@@ -1,0 +1,14 @@
+database dosyası onlineshopuyelik.sql dosya içerisinde
+veritabanı oluşturduktan sonra veritabanına tıklayıp "içe aktar" butonuna tıklamalısınız
+veritabanı ismini "onlineshopuyelik" koymayı unutmayın.
+
+
+ilk.php başlangıç sayfası
+
+
+kullanıcı girişi
+Mikleo19
+123456
+
+
+
